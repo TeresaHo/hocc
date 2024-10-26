@@ -1927,7 +1927,7 @@ input::-moz-focus-inner {
   position: absolute;
   top: 30%;
   right: 0;
-  left: 50%;
+  left: 60%;
   transform: translateX(-50%); /* Centers horizontally */
   border-radius: 50%;
   width: 200px; /* Increase size */
